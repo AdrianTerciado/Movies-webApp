@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    background: linear-gradient(rgb(47, 0, 61), black);
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 5px auto;
+    padding: 4px;
+    width: 95%;
+    border-radius: 20px;
+}
+
+p {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: white;
+}
+/*--------------------------------------*/
+figure {
+    margin: 0;
+    border: 4px solid black;
+    width: 100%;
+    height: 80%;
+}
+
+footer {
+    border: 4px solid black;
+}
+
+.nowPlaying_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.containerMovie {
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 10px;
+    max-width: 270px;
+    max-height: 540px;
+}
+
+.pictureMovie {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+

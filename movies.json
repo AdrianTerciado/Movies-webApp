@@ -1,0 +1,409 @@
+{
+    "dates": {
+      "maximum": "2024-03-27",
+      "minimum": "2024-02-14"
+    },
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/1XDDXPXGiI8id7MrUxK36ke7gkX.jpg",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          35,
+          10751
+        ],
+        "id": 1011985,
+        "original_language": "en",
+        "original_title": "Kung Fu Panda 4",
+        "overview": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero Dragón. Mientras entrena a un nuevo practicante de kung fu, enfrenta al villano llamado \"el Camaleón\", que evoca villanos del pasado, desafiando todo lo que Po y sus amigos han aprendido.",
+        "popularity": 4814.65,
+        "poster_path": "/zS8BSQdbOesql0EWbs17kPvLoAT.jpg",
+        "release_date": "2024-03-02",
+        "title": "Kung Fu Panda 4",
+        "video": false,
+        "vote_average": 6.877,
+        "vote_count": 239
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zAepSrO99owYwQqi0QG2AS0dHXw.jpg",
+        "genre_ids": [
+          28,
+          14
+        ],
+        "id": 634492,
+        "original_language": "en",
+        "original_title": "Madame Web",
+        "overview": "Cassandra Webb es una paramédica en Manhattan que podría tener habilidades clarividentes. Obligada a enfrentarse a sucesos que se han revelado de su pasado, crea una relación con tres jóvenes destinadas a tener un futuro poderoso... si consiguen sobrevivir a un presente mortal.",
+        "popularity": 2483.029,
+        "poster_path": "/blq050GHBt0Fzx1j9FvohaEuknJ.jpg",
+        "release_date": "2024-02-14",
+        "title": "Madame Web",
+        "video": false,
+        "vote_average": 5.552,
+        "vote_count": 664
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
+        "genre_ids": [
+          9648,
+          14,
+          28,
+          12
+        ],
+        "id": 763215,
+        "original_language": "en",
+        "original_title": "Damsel",
+        "overview": "La boda de una joven con un príncipe encantador se convierte en una encarnizada lucha por sobrevivir cuando la ofrecen como sacrificio a una dragona escupefuego.",
+        "popularity": 1398.123,
+        "poster_path": "/6tJWxRfBKWGIPFkfLTod2CgCexU.jpg",
+        "release_date": "2024-03-08",
+        "title": "Damsel",
+        "video": false,
+        "vote_average": 7.177,
+        "vote_count": 1050
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mDeUmPe4MF35WWlAqj4QFX5UauJ.jpg",
+        "genre_ids": [
+          28,
+          27,
+          53
+        ],
+        "id": 1096197,
+        "original_language": "pt",
+        "original_title": "No Way Up",
+        "overview": "Esta película sigue a personajes de orígenes muy diferentes que se juntan cuando el avión en el que viajan se estrella en el Océano Pacífico. Cuando el avión se detiene peligrosamente cerca del borde de un barranco con los pasajeros y la tripulación atrapados en una bolsa de aire, se produce una lucha de pesadilla por la supervivencia en la que el suministro de aire se agota y los peligros se acercan por todos lados.",
+        "popularity": 849.33,
+        "poster_path": "/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg",
+        "release_date": "2024-01-18",
+        "title": "Atrapados en lo profundo",
+        "video": false,
+        "vote_average": 6.142,
+        "vote_count": 265
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xvk5AhfhgQcTuaCQyq3XqAnhEma.jpg",
+        "genre_ids": [
+          28,
+          12,
+          35
+        ],
+        "id": 848538,
+        "original_language": "en",
+        "original_title": "Argylle",
+        "overview": "Cuando las tramas de sus libros empiezan a parecerse demasiado a las actividades de un siniestro sindicato clandestino, la introvertida autora de novelas de espías Elly Conway y su gato se ven inmersos en el verdadero mundo del espionaje… donde nada, ni nadie, es lo que parece.",
+        "popularity": 827.115,
+        "poster_path": "/tshllXJDIctUlD1kMPQdIh37L2V.jpg",
+        "release_date": "2024-01-31",
+        "title": "Argylle",
+        "video": false,
+        "vote_average": 6.151,
+        "vote_count": 667
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/87IVlclAfWL6mdicU1DDuxdwXwe.jpg",
+        "genre_ids": [
+          878,
+          12
+        ],
+        "id": 693134,
+        "original_language": "en",
+        "original_title": "Dune: Part Two",
+        "overview": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+        "popularity": 736.807,
+        "poster_path": "/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg",
+        "release_date": "2024-02-27",
+        "title": "Dune: Parte dos",
+        "video": false,
+        "vote_average": 8.396,
+        "vote_count": 1994
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/47olX0FCvUCfAqlp8cK0O5fKLav.jpg",
+        "genre_ids": [
+          16,
+          35,
+          878
+        ],
+        "id": 1239251,
+        "original_language": "en",
+        "original_title": "Megamind vs. the Doom Syndicate",
+        "overview": "El antiguo equipo de villanos de Megamind, El sindicato del mal, han regresado.  Nuestro héroe cabezon azul recién coronado, ahora debe mantener apariencias malvadas hasta que pueda reunir a sus amigos para evitar que sus antiguos compañeros malvados lancen Metro City a la Luna.",
+        "popularity": 705.329,
+        "poster_path": "/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg",
+        "release_date": "2024-03-01",
+        "title": "Megamind contra el sindicato del mal",
+        "video": false,
+        "vote_average": 5.634,
+        "vote_count": 131
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qVrS8bu1B7G1tgLTlCZQi4CFsTh.jpg",
+        "genre_ids": [
+          28,
+          53,
+          10752
+        ],
+        "id": 969492,
+        "original_language": "en",
+        "original_title": "Land of Bad",
+        "overview": "Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.",
+        "popularity": 651.355,
+        "poster_path": "/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+        "release_date": "2024-01-25",
+        "title": "Misión hostil",
+        "video": false,
+        "vote_average": 7.081,
+        "vote_count": 394
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gklkxY0veMajdCiGe6ggsh07VG2.jpg",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          35,
+          10751
+        ],
+        "id": 940551,
+        "original_language": "en",
+        "original_title": "Migration",
+        "overview": "La familia Mallard se ha quedado 'estancada'. Mientras papá Mack se siente realizado cuidando de su familia en su estanque de Nueva Inglaterra, mamá Pam se muere de ganas de vivir la vida y hacer descubrir a sus hijos –el adolescente Dax y la patita Gwen– el mundo en toda su amplitud. Después de que una familia de patos migratorios llegue a su estanque con maravillosas historias de lugares lejanos, Pam consigue convencer a Mack de que deben viajar a la tropical Jamaica pasando por Nueva York. Los Mallard emprenden el viaje hacia el sur para pasar el invierno, pero nada sale como estaba previsto. La experiencia les ayudará a descubrir horizontes desconocidos, a hacer nuevos amigos, a vivir experiencias que jamás imaginaron, y de paso, a conocerse mejor.",
+        "popularity": 704.837,
+        "poster_path": "/diEeiB2DmZZadHISkg24RO2n0rT.jpg",
+        "release_date": "2023-12-06",
+        "title": "Migración. Un viaje patas arriba",
+        "video": false,
+        "vote_average": 7.556,
+        "vote_count": 974
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cu5Qk2QHxOyyMrD3Bq93DxgmJer.jpg",
+        "genre_ids": [
+          28,
+          80
+        ],
+        "id": 1046090,
+        "original_language": "zh",
+        "original_title": "周處除三害",
+        "overview": "Cuando descubre que solo es el tercer fugitivo más buscado de Taiwán, un ambicioso criminal decide eliminar del podio a los dos primeros.",
+        "popularity": 617.369,
+        "poster_path": "/aqfS8ZHWq9UY52XRZXVmwBHB2r8.jpg",
+        "release_date": "2023-10-06",
+        "title": "El cerdo, la serpiente y la paloma",
+        "video": false,
+        "vote_average": 7.48,
+        "vote_count": 101
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+        "genre_ids": [
+          878,
+          10749,
+          35
+        ],
+        "id": 792307,
+        "original_language": "en",
+        "original_title": "Poor Things",
+        "overview": "Bella Baxter es una joven revivida por el brillante y poco ortodoxo científico Dr. Godwin Baxter. Bajo la protección de Baxter, Bella está ansiosa por aprender. Hambrienta de la mundanidad que le falta, Bella se escapa con Duncan Wedderburn, un sofisticado y perverso abogado, en una aventura vertiginosa a través de los continentes. Libre de los prejuicios de su época, Bella se vuelve firme en su propósito de defender la igualdad y la liberación.",
+        "popularity": 622.887,
+        "poster_path": "/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg",
+        "release_date": "2023-12-07",
+        "title": "Pobres criaturas",
+        "video": false,
+        "vote_average": 7.853,
+        "vote_count": 2565
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg",
+        "genre_ids": [
+          878,
+          28,
+          80
+        ],
+        "id": 932420,
+        "original_language": "en",
+        "original_title": "Code 8 Part II",
+        "overview": "Una chica que lucha por buscar justicia para su hermano asesinado por policías corruptos. Ella solicita la ayuda de un ex convicto y su ex pareja, pero deben enfrentar a un sargento de policía muy respetado y bien protegido.",
+        "popularity": 602.265,
+        "poster_path": "/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg",
+        "release_date": "2024-02-27",
+        "title": "Código 8 (Parte 2)",
+        "video": false,
+        "vote_average": 6.524,
+        "vote_count": 332
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sR0SpCrXamlIkYMdfz83sFn5JS6.jpg",
+        "genre_ids": [
+          28,
+          878,
+          12
+        ],
+        "id": 823464,
+        "original_language": "en",
+        "original_title": "Godzilla x Kong: The New Empire",
+        "overview": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
+        "popularity": 622.407,
+        "poster_path": "/iLa15KURiosRmvtWP6vKqBT11Le.jpg",
+        "release_date": "2024-03-27",
+        "title": "Godzilla y Kong: El nuevo imperio",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1ZSKH5GGFlM8M32K34GMdaNS2Ew.jpg",
+        "genre_ids": [
+          10402,
+          36,
+          18
+        ],
+        "id": 802219,
+        "original_language": "en",
+        "original_title": "Bob Marley: One Love",
+        "overview": "Biopic sobre Bob Marley dirigido por Reinaldo Marcus Green (El método Williams) . Un tributo a la que ha sido la mayor leyenda del reggae y que falleció con tan solo 36 años, a causa de un cáncer de piel, en 1981.",
+        "popularity": 819.473,
+        "poster_path": "/8sG4c8HYtRhkV1nDWocNQ5beMxo.jpg",
+        "release_date": "2024-02-14",
+        "title": "Bob Marley: One Love",
+        "video": false,
+        "vote_average": 6.973,
+        "vote_count": 319
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "id": 1072790,
+        "original_language": "en",
+        "original_title": "Anyone But You",
+        "overview": "Después de una primera cita increíble, la ardiente atracción entre ambos se enfría. Parecían la pareja perfecta, pero algo sucede y la cosa no va a más. Hasta que se reencuentran inesperadamente en una boda en Australia. Allí hacen lo que haría cualquier adulto: fingir que son una pareja.",
+        "popularity": 500.903,
+        "poster_path": "/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg",
+        "release_date": "2023-12-21",
+        "title": "Cualquiera menos tú",
+        "video": false,
+        "vote_average": 7.09,
+        "vote_count": 1073
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 872585,
+        "original_language": "en",
+        "original_title": "Oppenheimer",
+        "overview": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+        "popularity": 417.887,
+        "poster_path": "/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
+        "release_date": "2023-07-19",
+        "title": "Oppenheimer",
+        "video": false,
+        "vote_average": 8.113,
+        "vote_count": 7315
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9JNsAIFMu4o37AgnU1JVtR6AWsK.jpg",
+        "genre_ids": [
+          10749,
+          28,
+          18
+        ],
+        "id": 1248795,
+        "original_language": "tr",
+        "original_title": "Romantik Hırsız",
+        "overview": "Tras descubrir que el ladrón de arte al que intenta atrapar es su examante, una agente de la Interpol trama un plan para pillarle con las manos en la masa.",
+        "popularity": 390.026,
+        "poster_path": "/kWmQOYhyGPhuya3GnMzdyQ43Q4n.jpg",
+        "release_date": "2024-03-14",
+        "title": "Un ladrón romántico",
+        "video": false,
+        "vote_average": 7.121,
+        "vote_count": 58
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+        "genre_ids": [
+          878,
+          12
+        ],
+        "id": 438631,
+        "original_language": "en",
+        "original_title": "Dune",
+        "overview": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la \"especia melange\", la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+        "popularity": 368.536,
+        "poster_path": "/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg",
+        "release_date": "2021-09-15",
+        "title": "Dune",
+        "video": false,
+        "vote_average": 7.791,
+        "vote_count": 10892
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qz2QzkYzesbbL94rdUpZrFPhlRe.jpg",
+        "genre_ids": [
+          10749,
+          35,
+          14
+        ],
+        "id": 1019420,
+        "original_language": "en",
+        "original_title": "Irish Wish",
+        "overview": "El hombre ideal de Maddie está a punto de casarse con su mejor amiga. Pero cuando pide hallar el amor verdadero a una antigua roca irlandesa, su destino cambia por arte de magia.",
+        "popularity": 340.632,
+        "poster_path": "/gzdsIX1nQZAIcAzIvSuSzKyWI9u.jpg",
+        "release_date": "2024-03-14",
+        "title": "Un deseo irlandés",
+        "video": false,
+        "vote_average": 6.31,
+        "vote_count": 145
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4k46cQr1msDErfsEqZJVT10oKoH.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 359410,
+        "original_language": "en",
+        "original_title": "Road House",
+        "overview": "En esta trepidante revisión del clásico de culto de los ochenta, el exluchador de la UFC Dalton, acepta un trabajo como portero en un bar de carretera de los Cayos de Florida, donde descubrirá que en este paraíso las cosas no son como parecen.",
+        "popularity": 340.262,
+        "poster_path": "/kdefKfrKIqwfwUWuPmTY4fMEr1Q.jpg",
+        "release_date": "2024-03-08",
+        "title": "Road House (De profesión: duro)",
+        "video": false,
+        "vote_average": 6.874,
+        "vote_count": 178
+      }
+    ],
+    "total_pages": 199,
+    "total_results": 3980
+  }

@@ -1,0 +1,62 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/laNHiehbOHYM3y9FVFfqmLuX8X5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11978,
+            "original_language": "en",
+            "original_title": "Men of Honor",
+            "overview": "Against formidable odds -- and an old-school diving instructor embittered by the U.S. Navy's new, less prejudicial policies -- Carl Brashear sets his sights on becoming the Navy's first African-American master diver in this uplifting true story. Their relationship starts out on the rocks, but fate ultimately conspires to bring the men together into a setting of mutual respect, triumph and honor.",
+            "popularity": 24.659,
+            "poster_path": "/wNUAnXV1mzOOfvnVBIYsalkk078.jpg",
+            "release_date": "2000-09-13",
+            "title": "Men of Honor",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2162
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/H40nWdJngUc6gtytMAbElm9HOu.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 881,
+            "original_language": "en",
+            "original_title": "A Few Good Men",
+            "overview": "When cocky military lawyer Lt. Daniel Kaffee and his co-counsel, Lt. Cmdr. JoAnne Galloway, are assigned to a murder case, they uncover a hazing ritual that could implicate high-ranking officials such as shady Col. Nathan Jessep.",
+            "popularity": 42.905,
+            "poster_path": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+            "release_date": "1992-12-11",
+            "title": "A Few Good Men",
+            "video": false,
+            "vote_average": 7.532,
+            "vote_count": 3358
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 612878,
+            "original_language": "en",
+            "original_title": "One of Our Own",
+            "overview": "Michael Ironside headlines the cast as Jack, a Denver cop investigating the case of a murdered army sergeant. Things heat up when we learn that the death may be linked to a massive weapons trading scandal and, even worse, when Jack's friend Jennifer is kidnapped. The bad guys better beware now things are personal.",
+            "popularity": 1.918,
+            "poster_path": "/jqMqFzEzFxrnkoZkEn2l9oeCMln.jpg",
+            "release_date": "1998-08-28",
+            "title": "One of Our Own",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 2
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+}

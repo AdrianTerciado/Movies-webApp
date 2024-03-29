@@ -15,7 +15,7 @@ header {
     height: 40px;
 }
 
-header > div {
+header > div{
     background-color: black;
     color: white;
     border-radius: 25px;
@@ -24,6 +24,11 @@ header > div {
     justify-content: center;
     font-size: 0.9rem;
     padding: 0 4px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
 }
 
 #logo {
@@ -90,9 +95,9 @@ section {
 .template_movie {
     border: 1px solid black;
     border-radius: 20px;
-    margin: 10px;
-    width: 260px;
-    height: 500px;
+    margin: 5px;
+    width: 168px;
+    height: 280px;
 }
 
 figure {
@@ -109,11 +114,25 @@ figure {
 
 p {
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 0.7rem;
     font-weight: bold;
     color: white;
 }
 
+/*****Page: movie**********/
+
+.movie-image{
+border: 5px solid red;
+}
+
+.movie-information{
+    border: 5px solid green;
+}
+
+.movie-page{
+color: white;
+
+}
 /***************/
 
 footer {

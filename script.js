@@ -5,10 +5,8 @@ const SEARCH_MOVIE_URL = "https://api.themoviedb.org/3/search/movie";
 const URL = COVER_URL + KEY; 
 const IMG = "https://image.tmdb.org/t/p/w500";
 
-
-// Creamos la plantilla con el formato de tarjeta tal y como se van a mostrar las películas
-const cardTemplate = function (movie){
-    return `<article class="template_movie">
+const cardTemplate = function (movie) {
+    return `<article class="template_movie" data-movie-id="${movie.id}">
                 <figure>
                     <img src="${IMG + movie.poster_path}" alt="${movie.title}" class="picture_movie">
                 </figure>
@@ -16,27 +14,22 @@ const cardTemplate = function (movie){
             </article>`
 }
 
-//Creamos la funcion que se cargará al iniciar la página para mostrar en portada, he elegido mostrar las películas más actuales.
-async function webMovie() { // Simplemente recoge los datos de la api para pintar el DOM
+async function webMovie() { 
     try {
-        // Lanzamos la solicitud utilizando fetch() y esperamos respuesta
-        //const response = await fetch(URL);
+        // const response = await fetch(URL);
         const response = await fetch("./movies.json");
-        // Verificamos que la respuesta es correcta, es una buena práctica y pide de comer
+
         if (!response.ok) {
             console.error("Houston, la respuesta no ha sido del todo correcta");
         }
-        const data = await response.json();
-        // Ya tenemos nuestros datos listos para procesar
-        // Sólo necesito "results", que es un array de objetos con la info de las películas        
+        const data = await response.json();       
 
         let movies = data.results;
-        //console.log(moviesInformation); // Sólo para verificar
 
         let billboard = `
             <h1 class="title">Últimos estrenos</h1>
             <div class="movies_container">`;
-        // de momento queiro pintar una tarjeta con su foto y el nomobre
+
         movies.forEach(movie => {
             billboard += cardTemplate(movie);
         });
@@ -45,13 +38,19 @@ async function webMovie() { // Simplemente recoge los datos de la api para pinta
 
         document.querySelector(".billboard").innerHTML = billboard;
 
+        document.querySelectorAll(".template_movie").forEach(element => {
+            element.addEventListener("click", function () {
+                const movieId = this.dataset.movieId;
+                printMoviePage(movieId)
+            })
+        })
     }
     catch (error) {
         console.error("Houston, tenemos un problema: " + error)
     }
 }
-webMovie();
 
+webMovie();
 
 document.querySelector("#search_button").addEventListener("click", async function () {
 
@@ -66,7 +65,6 @@ document.querySelector("#search_button").addEventListener("click", async functio
             document.querySelector(".result").innerHTML = "No figura en la base de datos";
         }
         const data = await response.json();
-        console.log(data);
 
         let movies = data.results;
 
@@ -81,9 +79,37 @@ document.querySelector("#search_button").addEventListener("click", async functio
         result += "</div>";
 
         document.querySelector(".search_result").innerHTML = result;
+
+        document.querySelectorAll(".template_movie").forEach(element => {
+            element.addEventListener("click", function () {
+                const movieId = this.dataset.movieId;
+                printMoviePage(movieId)
+            })
+        })
     }
     catch (error) {
         console.error("Houston, tenemos un problema: " + error)
         document.querySelector(".search_result").innerHTML = "No figura en la base de datos";
     }
 })
+
+async function printMoviePage(data) {
+    console.log(data);
+    let response = await fetch("https://api.themoviedb.org/3/movie/" + data + KEY)
+    let movie = await response.json();
+    console.log(movie);
+
+    document.querySelector(".search_result").innerHTML = "";
+    document.querySelector(".billboard").innerHTML = "";
+    document.querySelector(".movie-page").innerHTML = `
+        <div>
+            <img src="${IMG + movie.backdrop_path}" alt="${movie.title}">
+        </div>
+        <div>
+            <p>Título: ${movie.title}</p>
+            <p>Sinopsis: ${movie.overview}</p>
+            <p>Web: ${movie.homepage}</p>
+            <p>${movie.tagline}</p>
+            <p>Valoración: ${movie.vote_average}</p>
+        </div>`
+}

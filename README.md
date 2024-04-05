@@ -25,9 +25,9 @@ Movies web-App
 
 
 
-## Estoy trabajando para implementar otro tipo de mejoras como poder loguearnos para guardar una lista de películas favoritas.
+Estoy trabajando para implementar otro tipo de mejoras como poder loguearnos para guardar una lista de películas favoritas.
 
-Tecnologías utilizadas:
+## Tecnologías utilizadas:
 * HTML
 * CSS
 * JavaScript
@@ -37,10 +37,10 @@ Tecnologías utilizadas:
 
 He tratado de cuidar la maquetación para que visualmente sea atractiva, se hace una manipulación del DOM y llamada a API para traer los datos. 
 
-En un proyecto de front-end que puedes visualizar en:
+## En un proyecto de front-end que puedes visualizar en:
 https://adrianterciado.github.io/Movies-webApp/
 
-Si quieres forquear el proyecto y probarlo por tu cuenta, debes obtener una API_KEy en: 
+## Si quieres forquear el proyecto y probarlo por tu cuenta, debes obtener una API_KEy en: 
 https://www.themoviedb.org/
 
 

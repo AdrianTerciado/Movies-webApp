@@ -32,6 +32,8 @@ Estoy trabajando para implementar otro tipo de mejoras como poder loguearnos par
 * CSS
 * JavaScript
 * EM6
+* GitHub
+ - Trabajo de ramas: main, develop y dos ramas de desarrollo (movie_page para pintar la página de infor de películas y Search_movie para la parte del buscador)
 
 
 

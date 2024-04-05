@@ -1,8 +1,4 @@
-/* BEERER */
-
-const COVER_URL = "https://api.themoviedb.org/3/movie/now_playing";
-const SEARCH_MOVIE_URL = "https://api.themoviedb.org/3/search/movie";
-const URL = COVER_URL + KEY; 
+// const KEY = ""; // AQUI HAY QUE INTRODUCIR LA API KEY
 const IMG = "https://image.tmdb.org/t/p/w500";
 
 const cardTemplate = function (movie) {
@@ -16,8 +12,8 @@ const cardTemplate = function (movie) {
 
 async function webMovie() { 
     try {
-        // const response = await fetch(URL);
-        const response = await fetch("./movies.json");
+        const response = await fetch(`https://api.themoviedb.org/3/movie/now_playing?api_key=${KEY}`);
+        // const response = await fetch("./movies.json");
 
         if (!response.ok) {
             console.error("Houston, la respuesta no ha sido del todo correcta");
@@ -54,12 +50,11 @@ webMovie();
 
 document.querySelector("#search_button").addEventListener("click", async function () {
 
-    let movie = "&query=" + document.getElementById("search_movie").value;
-    const URL_SEARCH = SEARCH_MOVIE_URL + KEY + movie;
+    let title = "&query=" + document.getElementById("search_movie").value;
 
     try {
-        //const response = await fetch(URL_SEARCH);
-        const response = await fetch("./men.json");
+        const response = await fetch(`https://api.themoviedb.org/3/search/movie?api_key=${KEY}${title}`);
+        //const response = await fetch("./men.json");
         if (!response.ok) {
             console.error("Houston, la respuesta no ha sido del todo correcta");
             document.querySelector(".result").innerHTML = "No figura en la base de datos";

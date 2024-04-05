@@ -9,9 +9,9 @@ Pinchando en cada una, podemos acceder a información de la película.
 
 ![Info_pelicula](https://github.com/AdrianTerciado/Movies-webApp/assets/158854133/533a9fb2-8e35-4df3-9edb-58e691d8eb6a)
 
+Además tenemos una barra de búsqueda para filtrar por título y ver los resultados.
 
-
-Además tenemos una barra de búsqueda para ir directaente a la película que queremos visualizar.
+![Busqueda](https://github.com/AdrianTerciado/Movies-webApp/assets/158854133/363efff8-d0ff-48d7-b3b8-f9c980ed4043)
 
 Estoy trabajando para implementar otro tipo de mejoras como poder loguearnos para guardar una lista de películas favoritas.
 
@@ -20,8 +20,13 @@ Tecnologías utilizadas:
 * CSS
 * JavaScript
 
-He tratado de cudar la maquetación para que visualmente sea atractiva, se hace una manipulación del DOM y llamada a API para traer los datos. 
+He tratado de cuidar la maquetación para que visualmente sea atractiva, se hace una manipulación del DOM y llamada a API para traer los datos. 
 
-En un proyecto de front-end.
+En un proyecto de front-end que puedes visualizar en:
+https://adrianterciado.github.io/Movies-webApp/
+
+Si quieres forquear el proyecto y probarlo por tu cuenta, debes obtener una API_KEy en: 
+https://www.themoviedb.org/
+
 
 Échale un vistazo y si crees que puedes colaborar, ¡muchas gracias!

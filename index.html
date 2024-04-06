@@ -1,26 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>peliculasApp</title>
+    <link rel="icon" type="image/jpg" href="/assets/icono_movies.png" />
+    <title>movies-webApp</title>
     <link rel="stylesheet" href="style.css">
     <script src="script.js" defer></script>
 </head>
+
 <body>
-   <!--<header><h1>¡UNA WEB-APP DE PELÍCULA!</h1></header>--> 
-   <h1>WEB-APP DE PELICULAS</h1>
-   <main>
-        <section>
-            <h1>Últimos estrenos</h1>
-            <div class="nowPlaying_container"></div>
+    <header>
+        <div>
+            <img id="logo" src="/assets/icono_movies.png" alt="">
+            <h2><a href="/index.html">movies-webApp</a></h2>
+        </div>
+        <div>
+            <h2>login</h2>
+        </div>
+    </header>
+
+    <main>
+        <section class="search">
+            <div id="search_bar">
+                <input type="text" name="search_movie" id="search_movie"
+                    placeholder="What do you want to watch?"/>
+                <button id="search_button">Search</button>
+            </div>
         </section>
-        
+
+        <section class="search_result"></section>
+
+        <section class="billboard"></section>
+
+        <section class="movie-page"></section>
+
     </main>
     <footer>FOOTER</footer>
 </body>
+
 </html>
-
-
-
-
